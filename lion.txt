@@ -1,7 +1,0 @@
-team : leopard
-
-manager : Seop
-
-members :
-- JinHo
-- HanNa
