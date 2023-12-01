@@ -5,3 +5,5 @@ manager : B
 member :
 - C
 - D
+- E
+- olivia

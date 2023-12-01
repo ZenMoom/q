@@ -1,7 +1,6 @@
-team : Tigers
+team : T1
 
-manager :Miseon
+manager : M1
 
 member :
-- Seop
-- SSeop
+- Ayoung
